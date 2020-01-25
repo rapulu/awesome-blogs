@@ -1,2 +1,2 @@
-# blog-collation
-A collation of programming/technical blog.
+# Awesome blogs
+A collation of programming/technical blogs.

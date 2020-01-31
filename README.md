@@ -31,6 +31,4 @@
 ### nodejs
 - [flaviocopes - All the Node.js tutorials](https://flaviocopes.com/tags/node/)
 
-- 
-
 # programming-languages

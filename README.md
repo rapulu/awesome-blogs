@@ -20,7 +20,7 @@
 
 - [Devops](#devops)
   - [Docker](#docker)
-  - [git](#git)
+  - [Git](#git)
 
 # client-side-languages
 

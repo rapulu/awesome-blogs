@@ -50,4 +50,4 @@
 - [Docker-curriculum - docker for beginners](https://docker-curriculum.com/)
 
 ### git
--[Atlassian - Become a git guru](https://www.atlassian.com/git/tutorials)
+- [Atlassian - Become a git guru](https://www.atlassian.com/git/tutorials)

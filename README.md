@@ -1,3 +1,10 @@
+<p align="center">
+  <br>
+  <img width="400" src="./logo.svg" alt="awesome-blogs repository logo">
+  <br>
+  <br>
+</p>
+
 ## Awesome blogs
 > A curated list of awesome blogs related to programming.
 

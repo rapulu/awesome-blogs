@@ -11,6 +11,7 @@ The only rules are all blogs submitted must:
 - Have personal content (not company news or reblogging)
 - Be put in the right category!
 - Always add your items to the end of a list. To be fair, the order is first come first serve.
+- Avoid duplicates in a category
 
 ## Updating repo
 

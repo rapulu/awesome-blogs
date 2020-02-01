@@ -42,6 +42,9 @@
 ### nodejs
 - [flaviocopes - All the Node.js tutorials](https://flaviocopes.com/tags/node/)
 
+### Django
+- [William Vincent](https://wsvincent.com)
+
 # programming-languages
 
 # Devops

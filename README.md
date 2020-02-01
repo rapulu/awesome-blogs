@@ -30,7 +30,7 @@
 - [Modern Javascript Tutorials](https://javascript.info/)
 - [The Ninja Blog - JavaScript posts](https://theninja.codes/tag/javascript/)
 - [Kent C. Dodds Blog - Javascript Contents](https://kentcdodds.com/blog/)
-
+- [TheWebFor5 by Dillion Megida](https://thewebfor5.com/tags/javascript)
 ### vuejs
 
 - [Flaviocopes - All the Vue tutorials](https://flaviocopes.com/tags/vue/)
@@ -60,3 +60,4 @@
 ### git
 - [Atlassian - Become a git guru](https://www.atlassian.com/git/tutorials)
 - [Git Branching - Learn Git Branching Interactively](https://learngitbranching.js.org/)
+- [TheWebFor5 by Dillion Megida](https://thewebfor5.com/tags/git)

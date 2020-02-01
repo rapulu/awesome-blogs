@@ -30,6 +30,7 @@
 - [Modern Javascript Tutorials](https://javascript.info/)
 - [The Ninja Blog - JavaScript posts](https://theninja.codes/tag/javascript/)
 - [Kent C. Dodds Blog - Javascript Contents](https://kentcdodds.com/blog/)
+- [Sarah Drasner - Technical writing on javascript topics and frameworks](https://sarah.dev/writing)
 
 ### vuejs
 

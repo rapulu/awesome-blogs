@@ -1,6 +1,8 @@
 # Contributing Guide
 
 ## Creating a PR
+- Fork the repo.
+- Clone the repo to your local machine.
 
 Open up `readme.md` and add your personal blog or one you know to the list!
 

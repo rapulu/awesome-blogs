@@ -28,12 +28,14 @@
 - [Alligator - Posts About JavaScript](https://alligator.io/js/)
 - [Javascript is Sexy - Modern Javascript and Frontend Development](https://javascriptissexy.com/)
 - [Modern Javascript Tutorials](https://javascript.info/)
+- [The Ninja Blog - JavaScript posts](https://theninja.codes/tag/javascript/)
 
 ### vuejs
 
 - [Flaviocopes - All the Vue tutorials](https://flaviocopes.com/tags/vue/)
 - [Alligator - Posts About Vue.js](https://alligator.io/vuejs/)
 - [Vue.js Examples - Articles and Projects on Vue.js](https://vuejsexamples.com/)
+- [The Ninja Blog - Vue.js posts](https://theninja.codes/tag/vue/)
 
 ### react
 

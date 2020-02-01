@@ -29,6 +29,7 @@
 - [Javascript is Sexy - Modern Javascript and Frontend Development](https://javascriptissexy.com/)
 - [Modern Javascript Tutorials](https://javascript.info/)
 - [The Ninja Blog - JavaScript posts](https://theninja.codes/tag/javascript/)
+- [Kent C. Dodds Blog - Javascript Contents](https://kentcdodds.com/blog/)
 
 ### vuejs
 
@@ -41,6 +42,7 @@
 
 - [Flaviocopes - All the React tutorials](https://flaviocopes.com/tags/react/)
 - [Alligator - Posts About React](https://alligator.io/react/)
+- [Overreacted - Dan Abramov blogs about React](https://overreacted.io/)
 
 # server-side-languages
 

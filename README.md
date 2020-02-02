@@ -15,6 +15,7 @@
 
 - [Server side languages](#server-side-languages)
   - [Nodejs](#nodejs)
+  - [PHP](#php)
 
 - [Programming language](#programming-languages)
 
@@ -31,6 +32,8 @@
 - [The Ninja Blog - JavaScript posts](https://theninja.codes/tag/javascript/)
 - [Kent C. Dodds Blog - Javascript Contents](https://kentcdodds.com/blog/)
 - [TheWebFor5 by Dillion Megida](https://thewebfor5.com/tags/javascript)
+- [Sarah Drasner - Technical writing on javascript topics and frameworks](https://sarah.dev/writing)
+
 ### vuejs
 
 - [Flaviocopes - All the Vue tutorials](https://flaviocopes.com/tags/vue/)
@@ -43,12 +46,15 @@
 - [Flaviocopes - All the React tutorials](https://flaviocopes.com/tags/react/)
 - [Alligator - Posts About React](https://alligator.io/react/)
 - [Overreacted - Dan Abramov blogs about React](https://overreacted.io/)
+- [ReactJs.org Intro to React](https://reactjs.org/tutorial/tutorial.html)
 
 # server-side-languages
 
 ### nodejs
 - [flaviocopes - All the Node.js tutorials](https://flaviocopes.com/tags/node/)
 - [How to Node - The Zen of Coding in Nodejs](http://howtonode.org/)
+
+### php
 
 # programming-languages
 

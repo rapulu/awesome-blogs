@@ -31,6 +31,7 @@
 - [Modern Javascript Tutorials](https://javascript.info/)
 - [The Ninja Blog - JavaScript posts](https://theninja.codes/tag/javascript/)
 - [Kent C. Dodds Blog - Javascript Contents](https://kentcdodds.com/blog/)
+- [TheWebFor5 by Dillion Megida](https://thewebfor5.com/tags/javascript)
 - [Sarah Drasner - Technical writing on javascript topics and frameworks](https://sarah.dev/writing)
 
 ### vuejs
@@ -45,7 +46,7 @@
 - [Flaviocopes - All the React tutorials](https://flaviocopes.com/tags/react/)
 - [Alligator - Posts About React](https://alligator.io/react/)
 - [Overreacted - Dan Abramov blogs about React](https://overreacted.io/)
-- [ReactJs.org Intro to React](https://reactjs.org/tutorial/tutorial.html))
+- [ReactJs.org Intro to React](https://reactjs.org/tutorial/tutorial.html)
 
 # server-side-languages
 
@@ -65,3 +66,4 @@
 ### git
 - [Atlassian - Become a git guru](https://www.atlassian.com/git/tutorials)
 - [Git Branching - Learn Git Branching Interactively](https://learngitbranching.js.org/)
+- [TheWebFor5 by Dillion Megida](https://thewebfor5.com/tags/git)

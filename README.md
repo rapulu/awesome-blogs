@@ -33,6 +33,7 @@
 - [Kent C. Dodds Blog - Javascript Contents](https://kentcdodds.com/blog/)
 - [TheWebFor5 by Dillion Megida](https://thewebfor5.com/tags/javascript)
 - [Sarah Drasner - Technical writing on javascript topics and frameworks](https://sarah.dev/writing)
+- [John Au-Yeung - The Web Dev Blog JavaScript posts](https://thewebdev.info/category/javascript/)
 
 ### vuejs
 
@@ -40,6 +41,7 @@
 - [Alligator - Posts About Vue.js](https://alligator.io/vuejs/)
 - [Vue.js Examples - Articles and Projects on Vue.js](https://vuejsexamples.com/)
 - [The Ninja Blog - Vue.js posts](https://theninja.codes/tag/vue/)
+- [John Au-Yeung - The Web Dev Blog Vue posts](https://thewebdev.info/category/vue/)
 
 ### react
 
@@ -47,12 +49,14 @@
 - [Alligator - Posts About React](https://alligator.io/react/)
 - [Overreacted - Dan Abramov blogs about React](https://overreacted.io/)
 - [ReactJs.org Intro to React](https://reactjs.org/tutorial/tutorial.html)
+- [John Au-Yeung - The Web Dev Blog React posts](https://thewebdev.info/category/react/)
 
 # server-side-languages
 
 ### nodejs
 - [flaviocopes - All the Node.js tutorials](https://flaviocopes.com/tags/node/)
 - [How to Node - The Zen of Coding in Nodejs](http://howtonode.org/)
+- [John Au-Yeung - The Web Dev Blog Node.js posts](https://thewebdev.info/category/nodejs/)
 
 ### php
 

@@ -21,6 +21,7 @@
   - [PHP](#php)
 
 - [Programming language](#programming-languages)
+  - [Python](#python)
 
 - [Devops](#devops)
   - [Docker](#docker)
@@ -57,6 +58,7 @@
 - [ReactJs.org Intro to React](https://reactjs.org/tutorial/tutorial.html)
 - [John Au-Yeung - The Web Dev Blog React posts](https://thewebdev.info/category/react/)
 - [David Walsh - React Blog](https://davidwalsh.name/tutorials/react)
+- [ROBIN WIERUCH - React Blog](https://www.robinwieruch.de)
 
 # server-side-languages
 
@@ -72,6 +74,11 @@
 - [Code Wall - Modern PHP](https://www.codewall.co.uk/)
 
 # programming-languages
+
+### python
+
+- [Code Mentor - Python tutorials and Insights](https://www.codementor.io/community/topic/python)
+- [Python Docs - Python Documentation](https://www.python.org/)
 
 # Devops
 

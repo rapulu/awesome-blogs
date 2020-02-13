@@ -78,7 +78,7 @@
 ### python
 
 - [Code Mentor - Python tutorials and Insights](https://www.codementor.io/community/topic/python)
-- [Python Docs - Python Documentation](https://www.python.org/)
+- [Python Docs - Python Documentation](https://www.python.org/doc/)
 
 # Devops
 

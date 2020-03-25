@@ -68,6 +68,7 @@
 - [How to Node - The Zen of Coding in Nodejs](http://howtonode.org/)
 - [John Au-Yeung - The Web Dev Blog Node.js posts](https://thewebdev.info/category/nodejs/)
 - [David Walsh - Nodejs Blog](https://davidwalsh.name/tutorials/nodejs)
+- [ Fullstack blog ](https://codeforgeek.com/)
 
 ### php
 
@@ -80,7 +81,17 @@
 - [Code Mentor - Python tutorials and Insights](https://www.codementor.io/community/topic/python)
 - [Python Docs - Python Documentation](https://www.python.org/doc/)
 
+- [Python Tutorials](https://www.realpython.com)
+
+- [Python Tutorials and more](https://www.fullstackpython.com)
+
+- [Flask/Django tutorials](https://prettyprinted.com/)
+
+
+
 # Devops
+  - [DevOps and more](https://dzone.com)
+  - [linux/DevOps related stuff](https://linuxize.com/)
 
 ### docker
 

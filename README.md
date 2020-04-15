@@ -21,7 +21,9 @@
   - [PHP](#php)
 
 - [Programming language](#programming-languages)
+
   - [Python](#python)
+  - [Go](#go)
 
 - [Devops](#devops)
   - [Docker](#docker)
@@ -87,11 +89,18 @@
 
 - [Flask/Django tutorials](https://prettyprinted.com/)
 
+### go
 
+- [Effective GO](https://golang.org/doc/effective_go.html)
+
+- [Go by Example](https://gobyexample.com)
+
+- [CalliCoder - Golang Tutorials](https://www.callicoder.com/categories/golang/)
 
 # Devops
-  - [DevOps and more](https://dzone.com)
-  - [linux/DevOps related stuff](https://linuxize.com/)
+
+- [DevOps and more](https://dzone.com)
+- [linux/DevOps related stuff](https://linuxize.com/)
 
 ### docker
 

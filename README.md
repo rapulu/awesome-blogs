@@ -43,7 +43,8 @@
 - [Flaviocopes - All the React tutorials](https://flaviocopes.com/tags/react/)
 - [Alligator - Posts About React](https://alligator.io/react/)
 - [Overreacted - Dan Abramov blogs about React](https://overreacted.io/)
-
+- [Overview of React by Tania Rascia.](https://www.taniarascia.com/getting-started-with-react/)
+- [React for Designers](https://reactfordesigners.com/)
 # server-side-languages
 
 ### nodejs

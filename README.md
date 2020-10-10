@@ -114,3 +114,4 @@
 - [Atlassian - Become a git guru](https://www.atlassian.com/git/tutorials)
 - [Git Branching - Learn Git Branching Interactively](https://learngitbranching.js.org/)
 - [TheWebFor5 by Dillion Megida](https://thewebfor5.com/tags/git)
+- [Introduction to git](https://www.notion.so/Introduction-to-Git-ac396a0697704709a12b6a0e545db049)

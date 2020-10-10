@@ -57,6 +57,9 @@
 - [Flaviocopes - All the React tutorials](https://flaviocopes.com/tags/react/)
 - [Alligator - Posts About React](https://alligator.io/react/)
 - [Overreacted - Dan Abramov blogs about React](https://overreacted.io/)
+
+- [Overview of React by Tania Rascia.](https://www.taniarascia.com/getting-started-with-react/)
+- [React for Designers](https://reactfordesigners.com/)
 - [ReactJs.org Intro to React](https://reactjs.org/tutorial/tutorial.html)
 - [John Au-Yeung - The Web Dev Blog React posts](https://thewebdev.info/category/react/)
 - [David Walsh - React Blog](https://davidwalsh.name/tutorials/react)

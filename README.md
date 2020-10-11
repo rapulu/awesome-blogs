@@ -36,7 +36,6 @@
 - [Alligator - Posts About JavaScript](https://alligator.io/js/)
 - [Javascript is Sexy - Modern Javascript and Frontend Development](https://javascriptissexy.com/)
 - [Modern Javascript Tutorials](https://javascript.info/)
-- [The Ninja Blog - JavaScript posts](https://theninja.codes/tag/javascript/)
 - [Kent C. Dodds Blog - Javascript Contents](https://kentcdodds.com/blog/)
 - [TheWebFor5 by Dillion Megida](https://thewebfor5.com/tags/javascript)
 - [Sarah Drasner - Technical writing on javascript topics and frameworks](https://sarah.dev/writing)
@@ -49,7 +48,6 @@
 - [Flaviocopes - All the Vue tutorials](https://flaviocopes.com/tags/vue/)
 - [Alligator - Posts About Vue.js](https://alligator.io/vuejs/)
 - [Vue.js Examples - Articles and Projects on Vue.js](https://vuejsexamples.com/)
-- [The Ninja Blog - Vue.js posts](https://theninja.codes/tag/vue/)
 - [John Au-Yeung - The Web Dev Blog Vue posts](https://thewebdev.info/category/vue/)
 
 ### react
